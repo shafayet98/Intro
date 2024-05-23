@@ -13,6 +13,7 @@
 		36096B152BFF6D5E009240CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36096B142BFF6D5E009240CF /* Preview Assets.xcassets */; };
 		36096B1C2BFF6DDA009240CF /* IntoLanding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36096B1B2BFF6DDA009240CF /* IntoLanding.swift */; };
 		36096B1E2BFF90A9009240CF /* IntroBandHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36096B1D2BFF90A9009240CF /* IntroBandHome.swift */; };
+		36096B202BFFAA50009240CF /* IntroConcertsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36096B1F2BFFAA50009240CF /* IntroConcertsPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		36096B142BFF6D5E009240CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		36096B1B2BFF6DDA009240CF /* IntoLanding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntoLanding.swift; sourceTree = "<group>"; };
 		36096B1D2BFF90A9009240CF /* IntroBandHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroBandHome.swift; sourceTree = "<group>"; };
+		36096B1F2BFFAA50009240CF /* IntroConcertsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroConcertsPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				36096B0F2BFF6D5E009240CF /* ContentView.swift */,
 				36096B1D2BFF90A9009240CF /* IntroBandHome.swift */,
 				36096B1B2BFF6DDA009240CF /* IntoLanding.swift */,
+				36096B1F2BFFAA50009240CF /* IntroConcertsPage.swift */,
 				36096B112BFF6D5E009240CF /* Assets.xcassets */,
 				36096B132BFF6D5E009240CF /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				36096B102BFF6D5E009240CF /* ContentView.swift in Sources */,
 				36096B1C2BFF6DDA009240CF /* IntoLanding.swift in Sources */,
 				36096B0E2BFF6D5E009240CF /* IntroApp.swift in Sources */,
+				36096B202BFFAA50009240CF /* IntroConcertsPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
