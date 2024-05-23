@@ -46,7 +46,7 @@ struct IntoLanding: View {
                     .fontWeight(.semibold)
                 Spacer()
                 Text("Start".uppercased())
-                    .font(.system(size: 14))
+                    .font(.system(size: 16))
                     .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                     .underline()
 
