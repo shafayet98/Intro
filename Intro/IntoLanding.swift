@@ -25,7 +25,6 @@ struct IntoLanding: View {
             .background(Color.red)
             
             HStack(content: {
-                
                 Circle()
                     .fill(Color(hex: 0xFFDAB9))
                     .frame(width: 200, height: 200)
